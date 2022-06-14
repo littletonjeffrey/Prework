@@ -1,0 +1,21 @@
+.red {color:red}
+.blue {color:blue}
+.green {color:green}
+.center {text-align: center;}
+.big {font-size: x-large;}
+.small {font-size: x-small;}
+.bold {font-weight:bold}
+.font {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.OJ {
+    font-size: xx-large;
+    color:orange;
+    font-weight:bolder
+}
+.styledFont {
+    font-size:large;
+    color:green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#styledImage {
+    border-width: 20px; 
+    background-color:blueviolet;}
